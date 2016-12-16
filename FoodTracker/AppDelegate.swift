@@ -3,7 +3,7 @@
 //  FoodTracker
 //
 //  Created by Jani Pasanen on 2016-11-29.
-//  Copyright © 2016 Jani Pasanen. All rights reserved.
+// 
 //
 
 import UIKit
